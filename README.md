@@ -1,2 +1,2 @@
 # Blog Layout
-#### Fluid Typography and Responsive Whitespace
+#### Fluid Typography and Responsive Whitespace 
